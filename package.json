@@ -10,7 +10,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/deBilla/cordova-plugin-chg-manifest.git"
+      "url": "git+https://github.com/Dfn-Wrapper-Dev/cordova-plugin-chg-manifest.git"
     },
     "keywords": [
       "Toast",
@@ -29,7 +29,7 @@
     "author": "Dimuthu Wickramanayake <dimuthu.billa@gmail.com>",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/deBilla/cordova-plugin-chg-manifest/issues"
+      "url": "https://github.com/Dfn-Wrapper-Dev/cordova-plugin-chg-manifest/issues"
     },
-    "homepage": "https://github.com/deBilla/cordova-plugin-chg-manifest"
+    "homepage": "https://github.com/Dfn-Wrapper-Dev/cordova-plugin-chg-manifest"
   }
